@@ -1,0 +1,38 @@
+[
+  {
+    "amount": 3.5,
+    "desc": "coffee",
+    "cat": "food",
+    "date": "2026-02-12"
+  },
+  {
+    "amount": 2.0,
+    "desc": "water",
+    "cat": "drink",
+    "date": "2026-02-12"
+  },
+  {
+    "amount": 5.5,
+    "desc": "sandwich",
+    "cat": "food",
+    "date": "2026-02-12"
+  },
+  {
+    "amount": 9.99,
+    "desc": "data",
+    "cat": "subscription",
+    "date": "2026-02-12"
+  },
+  {
+    "amount": 44.0,
+    "desc": "health",
+    "cat": "insurance",
+    "date": "2026-02-12"
+  },
+  {
+    "amount": 515.0,
+    "desc": "rent",
+    "cat": "payment",
+    "date": "2026-02-12"
+  }
+]
