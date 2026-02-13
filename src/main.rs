@@ -14,6 +14,8 @@ struct Cli {
 }
 
 #[derive(Subcommand)]
+
+
 enum Commands {
     Add {
         amount: f64,
